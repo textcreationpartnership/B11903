@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true reporte of the skirmish fought betwene the states of Flaunders, and Don Ioan, duke of Austria with the number of all them that were slayne on both sides, which battel was fought the first day of August being La[m]mas day 1578</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B11903</idno><idno type="EEBO-CITATION">99852147</idno>
+  <idno type="VID">176685</idno>
+  <idno type="EEBO-PROQUEST">2240906758</idno>
+  <idno type="STC">STC 4322</idno>
+  <idno type="STC">ESTC S116932</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99852147e"/>
+            <note>(EEBO-TCP ; phase 2, no. B11903)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176685)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 638:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true reporte of the skirmish fought betwene the states of Flaunders, and Don Ioan, duke of Austria with the number of all them that were slayne on both sides, which battel was fought the first day of August being La[m]mas day 1578</title>
+               </titleStmt>
+               <extent>[14] p.   </extent>
+               <publicationStmt>
+                  <publisher>By [H. Bynneman for] William Bartlet,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1578?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from and publication date conjectured by STC.</note>
+                  <note>"A prayer vnto almighty God, to defende vs in these daungerous dayes" has caption title.</note>
+                  <note>Formerly STC 11030.</note>
+                  <note>Identified as STC 11030 on UMI microfilm.</note>
+                  <note>Signatures: A-B⁴ (-A1,B4, blank?).</note>
+                  <note>Some print show-through.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Flanders --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Netherlands --  History --  Wars of Independence, 1556-1648.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176685:1"/>
+            <p>❧ <hi>THE TRVE RE<g ref="char:EOLhyphen"/>porte of the Skirmish <hi>fought betwene the States</hi> of Flaunders, and Don Ioan,</hi> Duke of Austria, with the number of all them that were slayne on both sides, which battel was fought the first day of <hi>August</hi> being <hi>Lāmas</hi> day 1578</p>
+            <p>❧ <hi>Imprinted at London</hi> by William Bartlet.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:176685:2"/>
+            <pb facs="tcp:176685:2"/>
+            <head>❧ <hi>THE DISCOVRSE</hi> of the last skirmish fought the <hi>fyrst day of</hi> August.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">B</seg>EING EARNE<g ref="char:EOLhyphen"/>stly</hi> requested by a verye freende of mine, to set down the certentye of such exploites, as were lately done: I haue thought good so to doe, for two principall causes, the one that I see manye tales goe, and men are desirous to kno the truth. Secondly for that I vnderstand my countrey men she<g ref="char:EOLhyphen"/>wed them selues such Lampes of light in that Skirmish, that wor<g ref="char:EOLhyphen"/>thilye I am forced to make it kno<g ref="char:EOLhyphen"/>wen, to such as are welwillers to our Countrey.</p>
+            <p>The fyrste daye of this present month being <hi>Lammas</hi> day, a daye
+<pb facs="tcp:176685:3"/> which the <hi>Spaniards</hi> haue in great honour, they determined to doo some great exployte (against the States of the low Country) that they might be remembred, which is theyr common order, they sent two of their common souldiours out of <hi>Louen,</hi> in bare and symple apparrell too view the Princes Campe, which laye within fowre myles of them at a Towne called <hi>Leyre,</hi> that they might burne all the Houses that were neere the Princes Campe, to the ende that they there by might bee occupyed about the slakyng of the fyre, and that then they might sodaynly set vppon them beinge vnprouided, which practise beyng vnderstood by takyng of the sayde two Soul<g ref="char:EOLhyphen"/>diours accordyng to theyr exami<g ref="char:EOLhyphen"/>nation was preuented and proui<g ref="char:EOLhyphen"/>ded for.</p>
+            <pb facs="tcp:176685:3"/>
+            <p>The number of the <hi>Spaniardes</hi> that issued out of <hi>Louen,</hi> was 4000. Horsmen. and 7000. Foot<g ref="char:EOLhyphen"/>men, of which number <hi>Mountdar<g ref="char:EOLhyphen"/>gon</hi> was chiefe, although it is cer<g ref="char:EOLhyphen"/>tainly knowne that <hi>Don Ioan</hi> and the Prince of <hi>Perma</hi> was there, They were recountred by our English men, Skots and French<g ref="char:EOLhyphen"/>men, our Englyshe men being on the vautgard woone great fame. <hi>Monser de Bossew</hi> was General of the fyelde for the States whole Armye. The Battayle was be<g ref="char:EOLhyphen"/>twixt <hi>Louin</hi> and <hi>Leyre,</hi> the Sker<g ref="char:EOLhyphen"/>mish was hote and great and con<g ref="char:EOLhyphen"/>tinued long: begining at. ix. a clock in the morning, &amp; continued til. iiii. a clocke of the same daye, wherein the States had the better, and in the end put them to flight, and fol<g ref="char:EOLhyphen"/>lowed them in Chase three english myle, and by the way as the Spa<g ref="char:EOLhyphen"/>niardes should haue passed, there
+<pb facs="tcp:176685:4"/> was a bridge, whiche they must passe ouer, for that they had no o<g ref="char:EOLhyphen"/>ther way to goo, which bridge by the Princes meanes &amp; the states, was plucked down and layd in the ryuer: wherupon the States fol<g ref="char:EOLhyphen"/>lowing them in Chase, they were forced to leap in and swim throw, horsemen and foote men, and some were drowned, and some were siayne by theyr enemies and our freendes. Yet for all this hast did the Spaniardes cary away with them an number of dead corses, some in waginnes, and some they drawed after them in ropes, to the intente theyr enemyes should not see howe they had spoiled thē: yet as neere as they could gather and learne, there was. 500. of thē slaine that day at the least besyds them that were drowned. And of the States Company betwixt. 80. and a. 100. the most were of
+<pb facs="tcp:176685:4"/> Englishmen and Skots. In this Battaile there was one Captaine <hi>Marcom</hi> a Nottinghamshire man gaue the Onset, and sought vali<g ref="char:EOLhyphen"/>antly against his enemies, hauing woone great cōmendacions ther<g ref="char:EOLhyphen"/>fore as by diuers letters appeare that haue bene sent into England from the States in his commen<g ref="char:EOLhyphen"/>dations.</p>
+            <p>M. <hi>Norris</hi> my Lorde <hi>Norrisses</hi> Sonne, who was Coronall of our Englishmen, fought that day vali<g ref="char:EOLhyphen"/>antlye against the enemy, hauing three Horses slaine vnder him that daye, and after valiantlye pursued the Chase with his sworde &amp; tar<g ref="char:EOLhyphen"/>get. O valiant wightes of Brit<g ref="char:EOLhyphen"/>taine blood, whome strangers rightlye terme, a second <hi>Hercules,</hi> a second <hi>Hector,</hi> nay a second <hi>Samp<g ref="char:EOLunhyphen"/>son.</hi> For sure in some of theyr let<g ref="char:EOLhyphen"/>ters, this discription the States haue made of them for theyr valy<g ref="char:EOLhyphen"/>encie.
+<pb facs="tcp:176685:5"/> There was in this fyght three of the <hi>Binghams</hi> Captaynes, whereof two of them were slaine in that syght, the best of them is yet liuing and valiantlye playd his pagent in this fyghte, there was slaine also one Captaine <hi>Legens</hi> an Irish man, and one Captaine <hi>Edwards</hi> a Welchman at the same tyme: No other Captaines were hurt at that tyme, thankes be to God. As they followed the Chase, there was found a wa<g ref="char:EOLhyphen"/>gen of the Spaniardes, wherein were. 37. dead courses found. There was a Spanish Captaine ouerta<g ref="char:EOLhyphen"/>ken in the Chase by an Englishe man, I could not learne eyther of theyr names, where they fought a long time together, hand to hand▪ and the Englishman fought so va<g ref="char:EOLhyphen"/>liantly, that hee made the Spani<g ref="char:EOLhyphen"/>ard to retyre and put him in grea<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> danger: so that he feared himselfe▪
+<pb facs="tcp:176685:5"/> wherevpon hee tooke his Rapyer, and pickt it at him, and slewe him. An other English man a simple fe<g ref="char:EOLhyphen"/>lowe whiche was counted but a strageler comming after, and saw the cowardly part of the Spany<g ref="char:EOLhyphen"/>arde immediatlye with his sworde thrust him throw the backe, and so they were both slayne, and so hee got the spoyle of them both which did much aduantage and profit him for he was but poore, as afore time it did appeare.</p>
+            <p>There is among the Princes Campe a valiaunt Captaine cal<g ref="char:EOLhyphen"/>led Monsor <hi>Mouraunte</hi> who is a Captaine ouer two hundred light horsmen, whiche for his worthy<g ref="char:EOLunhyphen"/>nesse is by Duke <hi>Mathyas</hi> made a Knight, and yet it is not long synce that hee was a Butcher by Occu<g ref="char:EOLhyphen"/>pation, and hee lyued long on that trade, but now yee maye see how
+<pb facs="tcp:176685:6"/> it hath pleased God to rayse hym, so that hee is become one of the valy<g ref="char:EOLhyphen"/>auntest Captaines amongst the Dutchmen, all men are in great admiration of his excellencie in counsell, his prowesse in warre, and comperable to any man.</p>
+            <p>You maye perswade your selfe my deare and welbeloued that all the States power are verye well victuled and monyed, and our En<g ref="char:EOLhyphen"/>glishe Captaynes haue valiaunt hartes, and thus according vnto my bounden duety I haue sente you that whiche I knowe to bee most true: I praye you imparte these newes vnto all our Country men, that they maye knowe our desyre and in your prayers commend vs vnto almighty God.</p>
+            <closer>
+               <signed>By yours to com<g ref="char:EOLhyphen"/>maunde. W. C.</signed>
+            </closer>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:176685:6"/>
+            <head>¶ A PRAYER VNTO <hi>almighty God, to defende</hi> vs in these daungerous <hi>dayes.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">D</seg>Efende and pre<g ref="char:EOLhyphen"/>serue</hi> by thy mighty pro<g ref="char:EOLhyphen"/>tection (O Lord) this lit<g ref="char:EOLhyphen"/>tle Ile of England: Saue by thy di<g ref="char:EOLhyphen"/>uine power thy handmaide, our no<g ref="char:EOLhyphen"/>ble Queene <hi>Elizabeth,</hi> represse the rage of all rebels: make thy trueth to be known throughout the whole world, make that myghty <hi>Nabogo<g ref="char:EOLhyphen"/>donozor,</hi> to stoupe with the ryng of thy glorious Gospell, that he maye once knowe the right waye to serue thee: We beseech thee deare father, to strengthen our <hi>Iudeth,</hi> that shee with the sword of thy worde, maye stricke downe that proude <hi>Holifer<g ref="char:EOLhyphen"/>nus,</hi> whose intent is to ouerthrowe
+<pb facs="tcp:176685:7"/> thy house: Saue by thy mercyfull prouidence our brethrē, which haue taken sword in hand, for the defence of thy Gospell, confounde O Lorde those that go about to aduance that strumpet of Roome, the maintainer of al Herisies. Thou seest deare fa<g ref="char:EOLhyphen"/>ther the strife of our neighbours beyonde the Seas, who onely seeke safely to do worshippe to thy holye name: let thy Arme bee seene thys time to helpe them, that the other may know, what it is to offend such a mighty God, as thou art, O Lord whose power is omnipotent, whose mercy is euerlasting, to thee we ap<g ref="char:EOLhyphen"/>peale, to thee we cry for mercy, deare father bend down thy fauorable eyes vpon vs, to the glory of thy holy name.</p>
+            <closer>Amen.</closer>
+            <pb facs="tcp:176685:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
